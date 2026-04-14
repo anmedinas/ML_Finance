@@ -31,4 +31,21 @@ Que el estudiante sea capaz de construir y defender un modelo de ML aplicado a f
 
 ## 🎖️ Contenidos
 
+| Unidad | Título | Material |
+|---:|---|---|
+| 1 | Setup del Curso: GitHub y Estructura de Proyectos DS/ML | xxx |
+| 2 | Kickoff: Casos de ML en Finanzas y Pitfalls | xxx |
+| 3 | Validación en Series Temporales: Walk-Forward y OOT | xxx |
+| 4 | Regularización: Ridge/Lasso y Selección de Features | xxx |
+| 5 | PCA: Factores Latentes para Riesgo y Señales | xxx |
+| 6 | Clustering: Regímenes y Segmentación de Activos | xxx |
+| 7 | Anomalías: Detección de Eventos y Fraude | xxx |
+| 8 | Random Forest: Modelos No Lineales Base | xxx |
+| 9 | Boosting: XGBoost/LightGBM para Predicción | xxx |
+| 10 | Interpretabilidad y Riesgo de Modelo (SHAP/Drift) | xxx |
+| 11 | Crédito/Fraude: Desbalance, Calibración y Estabilidad | xxx |
+| 11 | Deep Learning TS: Redes para Series Financieras | xxx |
+| 12 | NLP Financiero: Texto, Embeddings y Señales | xxx |
+| 13 | Presentación de Trabajos Finales | xxx |
+
 ## 🖥️ Setup 
