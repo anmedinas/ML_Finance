@@ -33,7 +33,7 @@ Que el estudiante sea capaz de construir y defender un modelo de ML aplicado a f
 
 | Unidad | Título | Material |
 |---:|---|---|
-| 1 | Setup del Curso: GitHub y Estructura de Proyectos DS/ML | En curso |
+| 1 | Setup del Curso: GitHub y Estructura de Proyectos DS/ML | [Ver notebook](clase_01/clase_01.ipynb) |
 | 2 | Kickoff: Casos de ML en Finanzas y Pitfalls | En curso |
 | 3 | Validación en Series Temporales: Walk-Forward y OOT | En curso |
 | 4 | Regularización: Ridge/Lasso y Selección de Features | En curso |
