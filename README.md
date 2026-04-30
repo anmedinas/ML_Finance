@@ -34,8 +34,8 @@ Que el estudiante sea capaz de construir y defender un modelo de ML aplicado a f
 | Unidad | Título | Material |
 |---:|---|---|
 | 1 | Setup del Curso: GitHub y Estructura de Proyectos DS/ML | [Ver notebook](clase_01/clase_01.ipynb) |
-| 2 | Kickoff: Casos de ML en Finanzas y Pitfalls | En curso |
-| 3 | Validación en Series Temporales: Walk-Forward y OOT | En curso |
+| 2 | Kickoff: Casos de ML en Finanzas y Pitfalls | [Ver notebook](clase_02/MLCreditScoring.ipynb) |
+| 3 | Validación en Series Temporales: Walk-Forward y OOT | [Ver notebook](clase_03/clase_03_validation_ts.ipynb) |
 | 4 | Regularización: Ridge/Lasso y Selección de Features | En curso |
 | 5 | PCA: Factores Latentes para Riesgo y Señales | En curso |
 | 6 | Clustering: Regímenes y Segmentación de Activos | En curso |
@@ -44,8 +44,9 @@ Que el estudiante sea capaz de construir y defender un modelo de ML aplicado a f
 | 9 | Boosting: XGBoost/LightGBM para Predicción | En curso |
 | 10 | Interpretabilidad y Riesgo de Modelo (SHAP/Drift) | En curso |
 | 11 | Crédito/Fraude: Desbalance, Calibración y Estabilidad | En curso |
-| 11 | Deep Learning TS: Redes para Series Financieras | En curso |
-| 12 | NLP Financiero: Texto, Embeddings y Señales | En curso |
-| 13 | Presentación de Trabajos Finales | En curso |
+| 12 | Deep Learning TS: Redes para Series Financieras | En curso |
+| 13 | NLP Financiero: Texto, Embeddings y Señales | En curso |
+| 14 | Presentación de Trabajos Finales | En curso |
 
 ## 🖥️ Setup 
+
