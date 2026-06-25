@@ -38,7 +38,7 @@ Que el estudiante sea capaz de construir y defender un modelo de ML aplicado a f
 | 3 | Validación en Series Temporales: Walk-Forward y OOT | [Ver notebook](clase_03/clase_03_validation_ts.ipynb) |
 | 4 | Regularización: Ridge/Lasso y Selección de Features | [Ver notebook](clase_04/regularization.ipynb) |
 | 5 | PCA: Factores Latentes para Riesgo y Señales | [Ver notebook](clase_05/pca.ipynb), [Ver slides](clase_05/Clase_4.pdf) | 
-| 6 | Clustering: Regímenes y Segmentación de Activos | En curso |
+| 6 | Clustering: Regímenes y Segmentación de Activos | [Ver notebook](clase_06/clustering.ipynb), [Ver notebook](clase_06/gmm.ipynb) |
 | 7 | Anomalías: Detección de Eventos y Fraude | En curso |
 | 8 | Random Forest: Modelos No Lineales Base | En curso |
 | 9 | Boosting: XGBoost/LightGBM para Predicción | En curso |
