@@ -40,7 +40,7 @@ Que el estudiante sea capaz de construir y defender un modelo de ML aplicado a f
 | 5 | PCA: Factores Latentes para Riesgo y Señales | [Ver notebook](clase_05/pca.ipynb), [Ver slides](clase_05/Clase_4.pdf) | 
 | 6 | Clustering: Regímenes y Segmentación de Activos | [Ver notebook](clase_06/clustering.ipynb), [Ver notebook](clase_06/gmm.ipynb) |
 | 7 | Anomalías: Detección de Eventos y Fraude | [Ver notebook](clase_07/anomalias.ipynb) |
-| 8 | Random Forest: Modelos No Lineales Base | En curso |
+| 8 | Random Forest: Modelos No Lineales Base | [Ver notebook](clase_08/random_forest.ipynb) |
 | 9 | Boosting: XGBoost/LightGBM para Predicción | En curso |
 | 10 | Interpretabilidad y Riesgo de Modelo (SHAP/Drift) | En curso |
 | 11 | Crédito/Fraude: Desbalance, Calibración y Estabilidad | En curso |
