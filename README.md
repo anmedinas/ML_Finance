@@ -41,12 +41,11 @@ Que el estudiante sea capaz de construir y defender un modelo de ML aplicado a f
 | 6 | Clustering: Regímenes y Segmentación de Activos | [Ver notebook](clase_06/clustering.ipynb), [Ver notebook](clase_06/gmm.ipynb) |
 | 7 | Anomalías: Detección de Eventos y Fraude | [Ver notebook](clase_07/anomalias.ipynb) |
 | 8 | Random Forest: Modelos No Lineales Base | [Ver notebook](clase_08/random_forest.ipynb) |
-| 9 | Boosting: XGBoost/LightGBM para Predicción | En curso |
-| 10 | Interpretabilidad y Riesgo de Modelo (SHAP/Drift) | En curso |
+| 9 | Boosting: XGBoost/LightGBM para Predicción | [Ver notebook](clase_09/boosting.ipynb) |
+| 10 | Interpretabilidad y Riesgo de Modelo (SHAP/Drift) | [Ver notebook](clase_10/interpretabilidad.ipynb) |
 | 11 | Crédito/Fraude: Desbalance, Calibración y Estabilidad | En curso |
 | 12 | Deep Learning TS: Redes para Series Financieras | En curso |
-| 13 | NLP Financiero: Texto, Embeddings y Señales | En curso |
-| 14 | Presentación de Trabajos Finales | En curso |
+| 13 | Presentación de Trabajos Finales | En curso |
 
 ## 🖥️ Setup 
 
