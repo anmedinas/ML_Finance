@@ -45,7 +45,7 @@ Que el estudiante sea capaz de construir y defender un modelo de ML aplicado a f
 | 10 | Interpretabilidad y Riesgo de Modelo (SHAP/Drift) | [Ver notebook](clase_10/interpretabilidad_ml.ipynb) |
 | 11 | Crédito/Fraude: Desbalance, Calibración y Estabilidad | [Ver notebook](clase_11/unbalance.ipynb) |
 | 12 | Deep Learning TS: Redes para Series Financieras | [Ver notebook](clase_12/clase_12.ipynb) |
-| 13 | Presentación de Trabajos Finales | En curso |
+| 13 | Presentación de Trabajos Finales | [Ver rúbrica](hw/Rubrica/rubrica_proyecto_final.md) |
 
-## 🖥️ Setup 
+
 
